@@ -1,0 +1,52 @@
+.header {
+
+    margin: 20px;
+    padding: 15px;
+    height: 30px;
+    text-align: right;
+    border: solid 0px;
+
+    border-radius: 10px;
+    background-color: rgba(154, 238, 238, 0.884);
+
+}
+th,td{
+    border:2px solid black;
+    border-collapse:collapse ;
+    padding: 10px;
+    text-align: left;
+}
+
+.nameTable{
+    width: 29.4%;
+    border:2px solid black;
+    border-collapse:collapse ;
+    background-color: rgba(111, 245, 212, 0.733);
+}
+.TH{
+    height: 50px;
+    background-color: rgba(111, 245, 245, 0.733);
+}
+.table{
+    width:100%;
+    border:2px solid black;
+    border-collapse:collapse ;
+}
+body{
+    background-color: rgba(67, 139, 248, 0.63);
+}
+.A1{
+background-color: rgba(100, 237, 203, 0.623);
+}
+.A2{
+background-color: rgba(140, 240, 223, 0.699);
+}
+.A3{
+background-color: rgba(48, 243, 178, 0.589);
+}
+.A4{
+    background-color: rgba(48, 243, 178, 0.589);
+}
+.A5{
+    background-color: rgba(48, 243, 178, 0.589);
+}
